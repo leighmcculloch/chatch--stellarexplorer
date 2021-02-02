@@ -98,6 +98,7 @@
   "operation.trust.allow": " [authorize: {authorize}, trustor: {trustor}]",
   "operation.trust.change": " với giới hạn {limit}",
   "operation.unregoznied": "Hoạt động {type}",
+  "operation.clawback": "Clawback {amount} {asset} from {from}",
 
   "optional": "Không bắt buộc",
   "order.amount": "Số tiền",

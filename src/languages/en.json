@@ -135,6 +135,7 @@
   "operation.trust.allow": " [authorize: {authorize}, trustor: {trustor}]",
   "operation.trust.change": " with limit {limit}",
   "operation.unrecognized": "Operation {type}",
+  "operation.clawback": "Clawback {amount} {asset} from {from}",
 
   "optional": "Optional",
   "order.amount": "Amount",

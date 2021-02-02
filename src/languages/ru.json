@@ -99,6 +99,7 @@
   "operation.trust.allow": " [authorize: {authorize}, trustor: {trustor}]",
   "operation.trust.change": " с лимитом {limit}",
   "operation.unregoznied": "Операция {type}",
+  "operation.clawback": "Clawback {amount} {asset} from {from}",
 
   "optional": "Необязательно",
   "order.amount": "Сумма",

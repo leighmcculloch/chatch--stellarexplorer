@@ -19,6 +19,7 @@ import PathPayment from './PathPayment'
 import Payment from './Payment'
 import SetOptions from './SetOptions'
 import Unrecognized from './Unrecognized'
+import Clawback from './Clawback'
 
 const opTypeComponentMap = {
   account_merge: AccountMerge,
@@ -43,6 +44,8 @@ const opTypeComponentMap = {
   
   payment: Payment,
   set_options: SetOptions,
+
+  clawback: Clawback,
 }
 
 const opTypes = Object.keys(opTypeComponentMap)
