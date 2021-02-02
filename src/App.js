@@ -39,7 +39,7 @@ import 'react-json-pretty/src/JSONPretty.1337.css'
 import './App.css'
 
 const HOME_PUBLIC = 'https://steexp.com'
-const HOME_TESTNET = 'https://testnet.steexp.com'
+const HOME_TESTNET = 'https://stellar-explorer.4d63.com'
 
 const storage = storageInit()
 

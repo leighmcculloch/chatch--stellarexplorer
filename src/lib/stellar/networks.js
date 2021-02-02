@@ -7,7 +7,7 @@ const networks = {
 const hostnameToNetworkType = hostname => {
   if (hostname === 'steexp.com' || hostname === 'publicnet.local')
     return networks.public
-  else if (hostname === 'testnet.steexp.com' || hostname === 'testnet.local')
+  else if (hostname === 'stellar-explorer.4d63.com' || hostname === 'testnet.local')
     return networks.test
   else return networks.local
 }
