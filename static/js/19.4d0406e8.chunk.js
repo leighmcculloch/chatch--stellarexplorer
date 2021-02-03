@@ -1,0 +1,2 @@
+webpackJsonp([19],{436:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=a(0),n=a.n(l),r=a(1),s=a.n(r),o=a(161),u=function(e){var t=e.domain,a="https://"+t+"/.well-known/stellar.toml";return n.a.createElement("span",{className:"stellarToml"},n.a.createElement(o.default,{label:"server.toml",url:a}))};u.propTypes={domain:s.a.string.isRequired},t.default=u}});
+//# sourceMappingURL=19.4d0406e8.chunk.js.map
